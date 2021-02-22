@@ -31,7 +31,7 @@ export default {
           title: 'Official Guide',
           description:
             'Switch tab and add a new resource it will persit or click the resource link to check out the repo for this project',
-          link: 'https://github.com/SantosBright/resources-app-vuejs'
+          link: 'https://github.com/SantosBright/Resources-App-vue-js'
         }
       ]
     };
