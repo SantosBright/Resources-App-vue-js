@@ -3,7 +3,7 @@
 This is a simple project I built as learning vuejs. And in this project I learned how to:
 
 * [x] - use components in vuejs
-* [ ] - use the vue "component" to render components dynamically
+* [x] - use the vue "component" to render components dynamically
 * [x] - use the "keep-alive" in vue to control the caching of dynamic components"
 * [x] - work with local storage in vue
 * [x] - understand vue component folder structure and architecture
