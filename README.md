@@ -13,6 +13,8 @@ This is a simple project I built as learning vuejs. And in this project I learne
 * [x] how to use refs to fetching values from form inputs
 * [x] use "teleport" component for accessibility
 
+Please don't forget to star🌟 🌟 🌟  and contribute also😍😍
+
 ## demo
 ![demo image](demo.png)
 
